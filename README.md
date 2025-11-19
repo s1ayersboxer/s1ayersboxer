@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Greg Luu  
 
-**Aspiring IT Specialist | ServiceNow Admin/Developer | Powerlifting Coach | Problem Solver**
+**Aspiring IT Technician | ServiceNow Admin/Developer | Problem Solver**
 
 Welcome to my GitHub!  
 I'm currently transitioning into IT with hands-on experience in:
@@ -39,10 +39,11 @@ I'm currently transitioning into IT with hands-on experience in:
 
 ---
 
-## 📚 Current Goals (2025)
+## 📚 Current Goals (2025-2026)
 
 - Pass **ServiceNow CSA**
-- Complete **CIS-HR**, **CAD**, **A+**, **Security+**, **CCNA**
+- Obtain the CompTIA Trifecta
+- Pursue Cisco CCNA
 - Build portfolio projects using ServiceNow & GitHub
 - Develop PowerShell automation scripts
 - Deploy an end-to-end ServiceNow application
@@ -66,19 +67,12 @@ Hands-on Git practice including:
 - Conflict resolution  
 - GitHub Desktop workflow  
 
-### 💪 **Forge Strength & Power**
-Fitness brand project & content pipeline, including:
-- Athlete dashboard  
-- Tracking sheets  
-- Automation scripts  
-
 ---
 
 ## 🔗 Connect With Me
 
-- **LinkedIn:** (add your link here)
+- **LinkedIn:** (https://www.linkedin.com/in/gregoryluu)
 - **GitHub:** https://github.com/s1ayersboxer
-- **Portfolio:** (optional future link)
 
 ---
 
